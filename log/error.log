@@ -1,0 +1,23 @@
+2019-11-18 19:25:38,165 [Thread-7:123145476956160]                       [Yearning.core.views:118] [ERROR]- OperationalError: (2003, "Can't connect to MySQL server on 'rm-2zebgv2p571z97041.mysql.rds.aliyuncs.com' ([Errno 8] nodename nor servname provided, or not known)")
+2019-11-22 19:45:55,372 [Thread-11:123145331765248]                       [Yearning.core.views:118] [ERROR]- OperationalError: (1045, "Access denied for user 'inyuadmin'@'172.30.20.152' (using password: YES)")
+2019-11-22 19:46:03,868 [Thread-11:123145331765248]                       [Yearning.core.views:118] [ERROR]- InternalError: (1130, "Host '172.30.20.152' is not allowed to connect to this MySQL server")
+2019-11-22 19:46:12,844 [Thread-16:123145321254912]                       [Yearning.core.views:36] [ERROR]- KeyError: 'data'
+2019-11-22 19:46:33,300 [Thread-16:123145321254912]                       [Yearning.core.views:36] [ERROR]- KeyError: 'data'
+2019-11-22 20:00:46,289 [Thread-14:123145347530752]                       [Yearning.core.views:118] [ERROR]- OperationalError: (2013, 'Lost connection to MySQL server during query ([Errno 54] Connection reset by peer)')
+2019-11-22 20:00:51,919 [Thread-13:123145342275584]                       [Yearning.core.views:118] [ERROR]- OperationalError: (2013, 'Lost connection to MySQL server during query ([Errno 54] Connection reset by peer)')
+2019-11-22 20:01:10,763 [Thread-11:123145331765248]                       [Yearning.core.views:118] [ERROR]- OperationalError: (2013, 'Lost connection to MySQL server during query ([Errno 54] Connection reset by peer)')
+2019-11-22 20:06:08,955 [Thread-16:123145321254912]                       [Yearning.core.views:118] [ERROR]- OperationalError: (2013, 'Lost connection to MySQL server during query ([Errno 54] Connection reset by peer)')
+2019-11-28 19:14:35,532 [Thread-9:123145430302720]                       [Yearning.core.views:280] [ERROR]- AttributeError: 'NoneType' object has no attribute 'email'
+2019-11-28 19:15:37,248 [Thread-9:123145430302720]                       [Yearning.core.views:280] [ERROR]- AttributeError: 'NoneType' object has no attribute 'email'
+2019-11-28 19:17:26,403 [Thread-1:123145538695168]                       [Yearning.core.views:280] [ERROR]- AttributeError: 'NoneType' object has no attribute 'email'
+2019-11-28 19:34:56,275 [Thread-1:123145565011968]                       [Yearning.core.views:280] [ERROR]- AttributeError: 'NoneType' object has no attribute 'email'
+2019-11-28 20:01:02,144 [Thread-1:123145568735232]                       [Yearning.core.views:280] [ERROR]- AttributeError: 'NoneType' object has no attribute 'email'
+2019-11-28 20:02:00,404 [Thread-1:123145498820608]                       [Yearning.core.views:281] [ERROR]- AttributeError: 'NoneType' object has no attribute 'email'
+2019-11-28 20:02:45,812 [Thread-1:123145482760192]                       [Yearning.core.views:282] [ERROR]- AttributeError: 'NoneType' object has no attribute 'email'
+2019-11-28 20:04:51,872 [Thread-1:123145370738688]                       [Yearning.core.views:283] [ERROR]- AttributeError: 'NoneType' object has no attribute 'email'
+2019-11-28 20:06:18,239 [Thread-1:123145460867072]                       [Yearning.core.views:286] [ERROR]- AttributeError: 'NoneType' object has no attribute 'email'
+2019-11-28 20:10:01,910 [Thread-8:123145487142912]                       [Yearning.core.views:286] [ERROR]- AttributeError: 'NoneType' object has no attribute 'email'
+2019-11-28 20:10:29,707 [Thread-8:123145487142912]                       [Yearning.core.views:286] [ERROR]- AttributeError: 'NoneType' object has no attribute 'email'
+2019-11-28 20:36:38,278 [Thread-1:123145441218560]                       [Yearning.core.views:286] [ERROR]- AttributeError: 'NoneType' object has no attribute 'email'
+2019-11-28 20:37:52,264 [Thread-1:123145359003648]                       [Yearning.core.views:286] [ERROR]- AttributeError: 'NoneType' object has no attribute 'email'
+2019-11-28 20:39:54,427 [Thread-1:123145336143872]                       [Yearning.core.views:287] [ERROR]- AttributeError: 'NoneType' object has no attribute 'email'
